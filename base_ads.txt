@@ -108,7 +108,6 @@ DOMAIN-SUFFIX:googletagservices.com
 DOMAIN-SUFFIX:adclick.g.doubleclick.net
 DOMAIN-SUFFIX:googleads.g.doubleclick.net
 DOMAIN-SUFFIX:crashlyticsreports-pa.googleapis.com
-DOMAIN-SUFFIX:adservice.google.ca
 DOMAIN-SUFFIX:g.doubleclick.net
 DOMAIN-SUFFIX:static.doubleclick.net
 DOMAIN-SUFFIX:firebaselogging-pa.googleapis.com
@@ -132,9 +131,8 @@ DOMAIN-SUFFIX:beacons.gcp.gvt2.com
 DOMAIN-SUFFIX:beacons.gvt2.com
 DOMAIN-SUFFIX:beacons5.gvt3.com
 DOMAIN-SUFFIX:s0.2mdn.net
-DOMAIN-SUFFIX:adservice.google.cz
 DOMAIN-SUFFIX:mail-ads.google.com
-DOMAIN-SUFFIX:adservice.google.sk
+
 
 #Waze
 DOMAIN-SUFFIX:ads-resources.waze.com

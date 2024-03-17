@@ -1,14 +1,12 @@
 #####apple ads
 #Apple
 DOMAIN-SUFFIX:metrics.icloud.com
-DOMAIN-SUFFIX:ca.iadsdk.apple.com
 DOMAIN-SUFFIX:securemetrics.apple.com
 DOMAIN-SUFFIX:weather-analytics-events.apple.com
 DOMAIN-SUFFIX:supportmetrics.apple.com
 DOMAIN-SUFFIX:beacon.shazam.com
 DOMAIN-SUFFIX:advertising.apple.com
 DOMAIN-SUFFIX:banners.itunes.apple.com
-DOMAIN-SUFFIX:iad.apple.com 
 DOMAIN-SUFFIX:iadcontent.apple.com
 DOMAIN-SUFFIX:iadctest.qwapi.com
 DOMAIN-SUFFIX:iadmoo.apple.com
@@ -16,7 +14,6 @@ DOMAIN-SUFFIX:iadworkbench.apple.com
 DOMAIN-SUFFIX:launch.apple.com 
 DOMAIN-SUFFIX:metrics.apple.com
 DOMAIN-SUFFIX:qwapi.apple.com
-DOMAIN-SUFFIX:securemetrics.apple.com
 
 ##multiple known subdomains are covered by the definition below
 DOMAIN-SUFFIX:iadsdk.apple.com
@@ -34,7 +31,7 @@ DOMAIN-SUFFIX:proxy.advp.apple.com
 DOMAIN-SUFFIX:webproxy.advp.apple.com
 
 ##multiple known domains are covered by the definition below; also blocks other potential candidates that would use a distribution network
-DOMAIN-KEYWORD:iad-apple.com
+DOMAIN-SUFFIX:iad-apple.com
 DOMAIN-SUFFIX:webproxy-advp.iad-apple.com
 DOMAIN-SUFFIX:webproxy-advp.iad-apple.com.akadns.net
 
